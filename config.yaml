@@ -6,6 +6,6 @@ mysql_password: Pass
 mysql_general_database: MyMYSQLDB
 archive_ID: IDForArchive
 search_title_video_ID: 0 # Постав 0, якщо відео відсутнє
-donate-file: groshi_hohliv.txt
+donate-file: groshi.txt
 inline-additional-menu: inline_additional_menu.png
 # Під час підстановки ІНШИХ файлів, обов'язково перевірте правильність вказання їх назви. В іншому випадку, бот може вести себе непередбачувано.
